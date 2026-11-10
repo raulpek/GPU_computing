@@ -1,2 +1,2 @@
 # GPU_computing
-classification task using kNN and NN
+classification task using kNN
